@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Ken Burns-Like Photo Screen Saver.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/abetterpc/emby-web-plugins-soundeffects",
+    "homepage": "https://github.com/abetterpc/EmbyPhotoScreenSaver",
     "thumb": "",
     "backdrop": ""
 }
